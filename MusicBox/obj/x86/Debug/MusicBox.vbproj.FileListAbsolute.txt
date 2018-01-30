@@ -1,0 +1,23 @@
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\x86\Debug\Random! Pooop.exe.config
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\MusicBox.vbproj.ResolveComReference.cache
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\x86\Debug\Random! Pooop.exe.manifest
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\x86\Debug\Random! Pooop.application
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\x86\Debug\Random! Pooop.exe
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\x86\Debug\Random! Pooop.pdb
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\x86\Debug\Random! Pooop.xml
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\MusicBox.Form2.resources
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\MusicBox.Form3.resources
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\MusicBox.Form4.resources
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\MusicBox.Form5.resources
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\MusicBox.Resources.resources
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\MusicBox.vbproj.GenerateResource.Cache
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\Random! Pooop.TrustInfo.xml
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\Random! Pooop.exe.manifest
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\Random! Pooop.application
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\Random! Pooop.exe
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\Random! Pooop.xml
+C:\Users\home\Documents\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\x86\Debug\Random! Pooop.pdb

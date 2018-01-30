@@ -1,0 +1,72 @@
+c:\users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Resources.resources
+c:\users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.vbproj.GenerateResource.Cache
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.vbproj.ResolveComReference.cache
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form2.resources
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form3.resources
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form4.resources
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.exe.config
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.exe.manifest
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.application
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.exe
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.pdb
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.xml
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.TrustInfo.xml
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.exe.manifest
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.application
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.exe
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.xml
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.pdb
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form5.resources
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.vbprojResolveAssemblyReference.cache
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Interop.WMPLib.dll
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Interop.WMPLib.dll
+C:\Users\home\documents\visual studio 2013\Projects\MusicBox\MusicBox\bin\Debug\AxInterop.WMPLib.dll
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.exe.config
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Interop.WMPLib.dll
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\AxInterop.WMPLib.dll
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.vbproj.ResolveComReference.cache
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.exe
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.xml
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.pdb
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.exe.manifest
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.application
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.exe
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.pdb
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.xml
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Interop.WMPLib.dll
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\AxInterop.WMPLib.dll
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.vbprojResolveAssemblyReference.cache
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form2.resources
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form3.resources
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form4.resources
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form5.resources
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Resources.resources
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.vbproj.GenerateResource.Cache
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.TrustInfo.xml
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.exe.manifest
+K:\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.application
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.exe.config
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Interop.WMPLib.dll
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\AxInterop.WMPLib.dll
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.vbproj.ResolveComReference.cache
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.exe
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.xml
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.pdb
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.exe.manifest
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.application
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.exe
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.pdb
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Random! Pooop.xml
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\Interop.WMPLib.dll
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\bin\Debug\AxInterop.WMPLib.dll
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.vbprojResolveAssemblyReference.cache
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form2.resources
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form3.resources
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form4.resources
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Form5.resources
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.Resources.resources
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\MusicBox.vbproj.GenerateResource.Cache
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.TrustInfo.xml
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.exe.manifest
+F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.application
