@@ -48,8 +48,8 @@ Public Class Form3
 
         ButtonList.Enabled = False
         ButtonList.Visible = False
-        ButtonHide.Enabled = True
-        ButtonHide.Visible = True
+        Button5.Enabled = True
+        Button5.Visible = True
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
@@ -213,8 +213,8 @@ Public Class Form3
 
         ButtonList.Enabled = True
         ButtonList.Visible = True
-        ButtonHide.Enabled = False
-        ButtonHide.Visible = False
+        Button5.Enabled = False
+        Button5.Visible = False
         Button4.Visible = False
 
         tt = 0
@@ -228,7 +228,7 @@ Public Class Form3
         ToolStripMenuPause.Visible = True
     End Sub
 
-    Private Sub ButtonHide_Click(sender As Object, e As EventArgs) Handles ButtonHide.Click
+    Private Sub ButtonHide_Click(sender As Object, e As EventArgs) Handles Button5.Click
         ListBox1.Hide()
 
         Button3.SetBounds(12, 72, 81, 48)
@@ -239,8 +239,8 @@ Public Class Form3
 
         ButtonList.Enabled = True
         ButtonList.Visible = True
-        ButtonHide.Enabled = False
-        ButtonHide.Visible = False
+        Button5.Enabled = False
+        Button5.Visible = False
 
         Label1.Visible = False
     End Sub
@@ -316,8 +316,8 @@ Public Class Form3
 
         ButtonList.Enabled = True
         ButtonList.Visible = True
-        ButtonHide.Enabled = False
-        ButtonHide.Visible = False
+        Button5.Enabled = False
+        Button5.Visible = False
 
         tt = 0
 

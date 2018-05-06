@@ -62,19 +62,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>3jugFG1d5tHnS0ElLLaF6OZDjUo=</dsig:DigestValue>
+        <dsig:DigestValue>XaEpQ87zrk233jKtILX7uZNKQOE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Random! Pooop.exe" size="304128">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Random! Pooop.exe" size="303616">
       <assemblyIdentity name="Random! Pooop" version="3.5.3.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>u9JTP+r7ztlUy595cqbczecQHJs=</dsig:DigestValue>
+        <dsig:DigestValue>pSVwsNBReN7uUpMpCtEzy1I4raI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

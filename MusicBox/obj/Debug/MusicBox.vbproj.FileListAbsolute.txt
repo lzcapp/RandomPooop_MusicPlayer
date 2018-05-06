@@ -70,3 +70,17 @@ F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj
 F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.TrustInfo.xml
 F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.exe.manifest
 F:\新建文件夹\Programming\Visual Studio 2013\Projects\MusicBox\MusicBox\obj\Debug\Random! Pooop.application
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\MusicBox.vbprojResolveAssemblyReference.cache
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\Interop.WMPLib.dll
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\MusicBox.vbproj.ResolveComReference.cache
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\MusicBox.Form2.resources
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\MusicBox.Form3.resources
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\MusicBox.Form4.resources
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\MusicBox.Form5.resources
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\MusicBox.Resources.resources
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\MusicBox.vbproj.GenerateResource.cache
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\MusicBox.vbproj.CoreCompileInputs.cache
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\Random! Pooop.exe
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\Random! Pooop.xml
+C:\Users\rainy\Programming\RandomPooop_MusicPlayer\MusicBox\obj\Debug\Random! Pooop.pdb
